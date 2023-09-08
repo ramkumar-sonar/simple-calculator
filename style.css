@@ -21,6 +21,8 @@ input::placeholder {
     
 }
 
+
+
 .click:hover {
     background-color: #0056b3; /* New background color on hover */
     color: #fff; /* New text color on hover */
